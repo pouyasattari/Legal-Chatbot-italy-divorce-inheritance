@@ -22,6 +22,9 @@ This project is an LLM chatbot designed to provide expert advice on Italian divo
 
 This chatbot is deployed on Hugging Face Spaces, accessible via [Legal Chatbot Italy Laws](https://huggingface.co/spaces/sattari/legal-chat-bot) Or [Direct Streamlit Link](https://sattari-legal-chat-bot.hf.space).
 
+[![Open on HuggingFace Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-lg.svg)](https://huggingface.co/spaces/sattari/legal-chat-bot/tree/main)
+
+
 ## Getting Started
 
 To learn how to build this chatbot, you can read this [Blog](https://sattari.org/legal-chatbot-divorce-and-inheritance-italy-laws/) in my Website.
