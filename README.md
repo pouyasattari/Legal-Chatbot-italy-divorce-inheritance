@@ -1,6 +1,6 @@
 ---
 title: Legal Chat Bot
-emoji: 📈
+emoji: 🏛
 colorFrom: red
 colorTo: purple
 sdk: streamlit
