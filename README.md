@@ -1,8 +1,3 @@
-
-
-
-
-
 ---
 title: Legal Chat Bot
 emoji: 🏛
