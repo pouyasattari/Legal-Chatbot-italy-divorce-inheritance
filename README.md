@@ -30,7 +30,7 @@ This chatbot is deployed on Hugging Face Spaces, Codes are available:  [![Open o
 
 ## Getting Started
 
-To learn how to build this chatbot, you can read this [Blog](https://sattari.org/legal-chatbot-divorce-and-inheritance-italy-laws/) in my Website.
+To learn how to build this chatbot, [HERE](https://sattari.org/legal-chatbot-divorce-and-inheritance-italy-laws/) in my Website.
 
 ### Prerequisites
 
