@@ -1,5 +1,7 @@
 ![Streamlit in HuggingFace Spaces](https://sattari.org/wp-content/uploads/2024/02/thumbnail.png)
 
+Try it yourself:  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sattari-legal-chat-bot.hf.space)
+
 
 # Legal Chatbot: Divorce and Inheritance Italy Laws
 
@@ -13,7 +15,7 @@ This project is an LLM chatbot designed to provide expert advice on Italian divo
 
 ## Deployment
 
-This chatbot is deployed on Hugging Face Spaces,  [![Open on HuggingFace Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/sattari/legal-chat-bot/tree/main)  ,  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sattari-legal-chat-bot.hf.space)
+This chatbot is deployed on Hugging Face Spaces, Codes are available:  [![Open on HuggingFace Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/sattari/legal-chat-bot/tree/main)  , and deployed app: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sattari-legal-chat-bot.hf.space)
 
 
 ## Features
