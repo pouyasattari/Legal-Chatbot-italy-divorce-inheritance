@@ -1,6 +1,8 @@
 # Legal Chatbot: Divorce and Inheritance Italy Laws
 
-This project is an AI-powered chatbot designed to provide expert advice on Italian divorce and inheritance laws. Deployed on Hugging Face Spaces with a Streamlit interface, it leverages advanced NLP models and legal documents to offer precise and context-aware answers to user queries.
+This project is an LLM chatbot designed to provide expert advice on Italian divorce and inheritance laws. Deployed on Hugging Face Spaces with a Streamlit interface, it leverages advanced NLP models and legal documents to offer precise and context-aware answers to user queries.
+
+#### Built by:  [Pouya Sattari](https://www.linkedin.com/in/pouya-sattari/) and [Stefano Acierno](https://www.linkedin.com/in/stefano-acierno-490b24284).
 
 ## Features
 
@@ -23,3 +25,6 @@ To learn how to build this chatbot, you can read this [Blog](https://sattari.org
 - Python 3.x
 - Streamlit
 - OpenAI API key
+
+
+
