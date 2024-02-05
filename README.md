@@ -1,3 +1,6 @@
+![Streamlit in HuggingFace Spaces](https://sattari.org/wp-content/uploads/2024/02/thumbnail.png)
+
+
 # Legal Chatbot: Divorce and Inheritance Italy Laws
 
 This project is an LLM chatbot designed to provide expert advice on Italian divorce and inheritance laws. Deployed on Hugging Face Spaces with a Streamlit interface, it leverages advanced NLP models and legal documents to offer precise and context-aware answers to user queries.
