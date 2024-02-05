@@ -10,6 +10,12 @@ This project is an LLM chatbot designed to provide expert advice on Italian divo
 
 ![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white) [Stefano Acierno](https://www.linkedin.com/in/stefano-acierno-490b24284) 
 
+
+## Deployment
+
+This chatbot is deployed on Hugging Face Spaces,  [![Open on HuggingFace Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/sattari/legal-chat-bot/tree/main)  ,  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sattari-legal-chat-bot.hf.space)
+
+
 ## Features
 
 - **Expert Knowledge**: Offers insights into Italian divorce and inheritance laws, citing specific articles and legal documents.
@@ -18,11 +24,6 @@ This project is an LLM chatbot designed to provide expert advice on Italian divo
 - **Customizable Responses**: Includes greetings and detailed responses tailored to the context of divorce or inheritance law.
 - **Document Parsing**: Efficiently processes legal documents to extract and utilize relevant information.
 
-## Deployment
-
-This chatbot is deployed on Hugging Face Spaces, accessible via [Legal Chatbot Italy Laws](https://huggingface.co/spaces/sattari/legal-chat-bot) Or [Direct Streamlit Link](https://sattari-legal-chat-bot.hf.space).
-
-[![Open on HuggingFace Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-lg.svg)](https://huggingface.co/spaces/sattari/legal-chat-bot/tree/main)
 
 
 ## Getting Started
