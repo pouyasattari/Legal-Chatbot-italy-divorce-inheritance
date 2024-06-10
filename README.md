@@ -30,7 +30,7 @@ This project is an LLM chatbot designed to provide expert advice on Italian divo
 
 ## 🚀 Deployment
 
-This chatbot is deployed on Hugging Face Spaces, Codes are available:  [![Open on HuggingFace Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/sattari/legal-chat-bot/tree/main)  , and deployed app: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sattari-legal-chat-bot.hf.space)
+This chatbot is deployed on Hugging Face Spaces.</br> Codes are available:  [![Open on HuggingFace Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/sattari/legal-chat-bot/tree/main)  , </br>and deployed app: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sattari-legal-chat-bot.hf.space)
 
 <br>
 
