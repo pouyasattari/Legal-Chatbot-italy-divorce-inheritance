@@ -11,6 +11,7 @@ from langchain.text_splitter import CharacterTextSplitter
 import openai
 
 
+
 # Set OpenAI API Key (I used Hugging Face Secrets Environment and Inserted my API Key there)
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 
