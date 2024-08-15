@@ -22,11 +22,23 @@
 <br>
 
 This project is an LLM chatbot designed to provide expert advice on Italian divorce and inheritance laws. Deployed on Hugging Face Spaces with a Streamlit interface, it leverages advanced NLP models and legal documents to offer precise and context-aware answers to user queries.
+<br>
+<br>
+
+
+> [!NOTE]  
+> Latest Upgrades in August 2024: ✅ Model upgraded to GPT4o, ✅ Greeting Function Improved, ✅ Italian Lang has been activated
+<br>
+
+
+
 
 #### Built by:
 ![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white) [Pouya Sattari](https://www.linkedin.com/in/pouya-sattari/) 
 
 ![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white) [Stefano Acierno](https://www.linkedin.com/in/stefano-acierno-490b24284) 
+
+
 
 ## 🚀 Deployment
 
