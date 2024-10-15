@@ -1,0 +1,11 @@
+streamlit
+openai
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langsmith
+chromadb
+tiktoken
+streamlit-chat
