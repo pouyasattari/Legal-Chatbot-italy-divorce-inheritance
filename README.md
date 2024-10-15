@@ -27,7 +27,7 @@ This project is an LLM chatbot designed to provide expert advice on Italian divo
 
 
 > [!NOTE]  
-> Latest Upgrades in August 2024: ✅ Model upgraded to GPT4o, ✅ Greeting Function Improved, ✅ Italian Lang has been activated
+> Latest Upgrades in August 2024: <br> ✅ Model upgraded to GPT4o, <br> ✅ Greeting Function Improved, <br> ✅ Italian Lang has been activated
 <br>
 
 
