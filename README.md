@@ -71,5 +71,11 @@ This chatbot is deployed on Hugging Face Spaces.</br> Codes are available:  [![O
 To learn how to build this chatbot step by step, [click here](https://sattari.org/legal-chatbot-divorce-and-inheritance-italy-laws/) to visit the guide on my website.
 
 <div align="center">
-  <img src="https://sattari.org/wp-content/uploads/2024/03/dl.beatsnoop.com-1709658529.jpg" alt="Cover Image" style="max-width:50%; max-height:200px; pointer-events: none;">
+  <img src="https://sattari.org/wp-content/uploads/2024/03/dl.beatsnoop.com-1709658529.jpg" alt="Cover Image" style="width:30%; height:30%; pointer-events: none;">
 </div>
+
+
+
+> [!TIP]
+> I would be happy to assist you in solving a puzzle in your Data journey ;)
+>            <br>    pouya [at] sattari [dot] org
