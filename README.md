@@ -15,7 +15,8 @@
 </div>
 
 <div align="center">
-  Try it yourself: <a href="https://sattari-legal-chat-bot.hf.space" target="_blank"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a>
+   <br>
+  Try It Now: <a href="https://sattari-legal-chat-bot.hf.space" target="_blank"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a>
 </div>
 
 <br>
